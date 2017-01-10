@@ -1,0 +1,19 @@
+.container-fluid {
+    background-color: ghostwhite;
+    
+    font-family: impact;
+    border-style: hidden;
+}
+
+.jumbotron {
+    
+    background-color:white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom-style: dashed;
+}
+
+.label {
+
+background-color: darkred;
+
+}
